@@ -1,0 +1,1 @@
+# A03Q2-String-Inside-the-Function
